@@ -1,17 +1,18 @@
 # C++ and DSA Journey 🚀
-# This repository documents my journey of learning C++ from the basics to mastering Data Structures and Algorithms (DSA). It includes foundational concepts, intermediate topics, and advanced problem-solving techniques.
+## This repository documents my journey of learning C++ from the basics to mastering Data Structures and Algorithms (DSA). It includes foundational concepts, intermediate topics, and advanced problem-solving techniques.
 
-# Topics Covered
-# C++ Basics: Input/Output, Variables, Loops, Functions, Arrays, Strings.
+## Topics Covered
 
-# Intermediate: OOP, STL, Exception Handling.
+### C++ Basics: Input/Output, Variables, Loops, Functions, Arrays, Strings.
 
-# Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps.
+## Intermediate: OOP, STL, Exception Handling.
 
-# Algorithms: Sorting, Searching, Recursion, DP, Greedy, Divide and Conquer.
+## Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps.
 
-# Structure
-# Basics/: Core C++ concepts.
-# Intermediate/: Advanced features like STL and OOP.
-# Data-Structures/: Implementation of DSA.
-# Algorithms/: Problem-solving techniques.
+## Algorithms: Sorting, Searching, Recursion, DP, Greedy, Divide and Conquer.
+
+## Structure
+### Basics/: Core C++ concepts.
+### Intermediate/: Advanced features like STL and OOP.
+### Data-Structures/: Implementation of DSA.
+### Algorithms/: Problem-solving techniques.
