@@ -23,10 +23,25 @@ int main(){
      cout<< "not equal to = "<<(a!=b)<<endl;
 
     //  LOGICAL OPERATOR (OR  || , NOT ! , AND &&)
-    
+
     cout<< "or = "<< ((3>4) || (5<1)) <<endl;
     cout<< "and = "<<(a && b)<<endl;
     cout<< "not = "<<(!b)<<endl; // if false than true if true than make false
+
+    // unary operator 
+    // increment ++  in loops (a= a+1) , a++(kamm then update) , ++a(update then kamm)
+    // int c = 3; (post increament )
+    // int d = c++;
+    // cout<< d << endl;
+    // cout<< c;
+
+    int c = 3;  //(pre increment)
+    int d = ++c;
+    cout<< d << endl;
+    cout<< c;
+
+    //  decrement is same as increment
+
 
  return 0;
 }
